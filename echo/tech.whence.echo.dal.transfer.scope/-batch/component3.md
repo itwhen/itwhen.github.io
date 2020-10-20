@@ -1,7 +1,7 @@
 ---
 title: component3 -
 ---
-//[echo](../../index.md)/[tech.whence.echo.dal.transfer.scope](../index.md)/[Batch](index.md)/[component3](component3.md)
+//[echo](../../index.md)/[tech.whence.echo.dal.transfer.cell](../index.md)/[Batch](index.md)/[component3](component3.md)
 
 
 

@@ -1,7 +1,7 @@
 ---
 title: Querier -
 ---
-//[echo](../../index.md)/[tech.whence.echo.dal.transfer.scope](../index.md)/[Querier](index.md)
+//[echo](../../index.md)/[tech.whence.echo.dal.transfer.cell](../index.md)/[Querier](index.md)
 
 
 

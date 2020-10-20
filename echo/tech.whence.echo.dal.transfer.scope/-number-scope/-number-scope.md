@@ -1,7 +1,7 @@
 ---
 title: NumberScope -
 ---
-//[echo](../../index.md)/[tech.whence.echo.dal.transfer.scope](../index.md)/[NumberScope](index.md)/[NumberScope](-number-scope.md)
+//[echo](../../index.md)/[tech.whence.echo.dal.transfer.cell](../index.md)/[NumberScope](index.md)/[NumberScope](-number-scope.md)
 
 
 

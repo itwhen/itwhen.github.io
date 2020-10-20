@@ -1,7 +1,7 @@
 ---
 title: DateScope -
 ---
-//[echo](../../index.md)/[tech.whence.echo.dal.transfer.scope](../index.md)/[DateScope](index.md)
+//[echo](../../index.md)/[tech.whence.echo.dal.transfer.cell](../index.md)/[DateScope](index.md)
 
 
 

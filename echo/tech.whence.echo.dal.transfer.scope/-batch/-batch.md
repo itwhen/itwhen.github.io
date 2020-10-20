@@ -1,7 +1,7 @@
 ---
 title: Batch -
 ---
-//[echo](../../index.md)/[tech.whence.echo.dal.transfer.scope](../index.md)/[Batch](index.md)/[Batch](-batch.md)
+//[echo](../../index.md)/[tech.whence.echo.dal.transfer.cell](../index.md)/[Batch](index.md)/[Batch](-batch.md)
 
 
 

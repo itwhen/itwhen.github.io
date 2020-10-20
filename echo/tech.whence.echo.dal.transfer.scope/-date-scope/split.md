@@ -1,7 +1,7 @@
 ---
 title: split -
 ---
-//[echo](../../index.md)/[tech.whence.echo.dal.transfer.scope](../index.md)/[DateScope](index.md)/[split](split.md)
+//[echo](../../index.md)/[tech.whence.echo.dal.transfer.cell](../index.md)/[DateScope](index.md)/[split](split.md)
 
 
 

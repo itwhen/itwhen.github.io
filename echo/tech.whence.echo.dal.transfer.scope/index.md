@@ -1,11 +1,11 @@
 ---
-title: tech.whence.echo.dal.transfer.scope -
+title: tech.whence.echo.dal.transfer.cell -
 ---
-//[echo](../index.md)/[tech.whence.echo.dal.transfer.scope](index.md)
+//[echo](../index.md)/[tech.whence.echo.dal.transfer.cell](index.md)
 
 
 
-# Package tech.whence.echo.dal.transfer.scope  
+# Package tech.whence.echo.dal.transfer.cell  
 
 
 ## Types  

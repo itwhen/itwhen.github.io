@@ -36,7 +36,7 @@ title: echo -
 | [tech.whence.echo.dal.transfer](tech.whence.echo.dal.transfer/index.md) | 
 | [tech.whence.echo.dal.transfer.node](tech.whence.echo.dal.transfer.node/index.md) | 
 | [tech.whence.echo.dal.transfer.project](tech.whence.echo.dal.transfer.project/index.md) | 
-| [tech.whence.echo.dal.transfer.scope](tech.whence.echo.dal.transfer.scope/index.md) | 
+| [tech.whence.echo.dal.transfer.cell](tech.whence.echo.dal.transfer.scope/index.md) | 
 | [tech.whence.echo.dal.transfer.source](tech.whence.echo.dal.transfer.source/index.md) | 
 | [tech.whence.echo.dal.transfer.task](tech.whence.echo.dal.transfer.task/index.md) | 
 | [tech.whence.echo.definition](tech.whence.echo.definition/index.md) | 

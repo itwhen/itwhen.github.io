@@ -1,7 +1,7 @@
 ---
 title: Scope -
 ---
-//[echo](../../index.md)/[tech.whence.echo.dal.transfer.scope](../index.md)/[Scope](index.md)
+//[echo](../../index.md)/[tech.whence.echo.dal.transfer.cell](../index.md)/[Scope](index.md)
 
 
 
